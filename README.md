@@ -1,3 +1,5 @@
+Temporary fork, still debugging an issue with osc-parse.sh on some tracks and not others giving stdin error with one }
+
 # osc-tools
 
 - [**osc-parse.sh**](https://github.com/Streets-Data-Collaborative/osc-tools/blob/master/osc-parse.sh "osc-parse.sh") downloads all the files for a specific OSC track_id.
